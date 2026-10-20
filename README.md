@@ -5,9 +5,6 @@ arrangement on the track and the level the game reports, keeps a history of ever
 tells you which two modules to swap next. Following its suggestions reaches **Perfect** within 11 swaps on every
 blueprint, and in about 7 on average.
 
-The helper never moves a module, never clicks anything, and never reads anything you cannot see on screen. You keep
-dragging modules; it keeps the bookkeeping.
-
 Contents: [What it does](#what-it-does) | [Installing](#installing) | [Using it](#using-it) | [Settings](#settings) |
 [How it works](#how-it-works) | [Files](#files) | [Privacy](#privacy) | [For reviewers](#for-reviewers) |
 [Development](#development)
