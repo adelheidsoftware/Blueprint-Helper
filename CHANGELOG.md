@@ -3,7 +3,7 @@
 Every release of Blueprint Helper, newest first. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and versions follow [Semantic Versioning](https://semver.org/). Each entry is also the release note on Mod.io.
 
-## [1.0.0]
+## [1.0.0] - 2026-10-20
 
 The first release.
 
