@@ -2,18 +2,12 @@
     "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
     "runtime.version": "Lua 5.4",
     "workspace.library": [
-        "../runescape-api-stubs/types.lua",
-        "../runescape-api-stubs/generated/",
-        "../runescape-api-stubs/consts/Interface.lua",
-        "../runescape-api-stubs/consts/Interface.config.lua",
-        "../runescape-api-stubs/consts/StyleSheet.lua",
-        "../runescape-api-stubs/consts/StyleSheet.config.lua",
-        "../runescape-api-stubs/consts/Font.lua",
-        "../runescape-api-stubs/consts/Font.config.lua",
-        "../runescape-api-stubs/consts/Cursor.lua",
-        "../runescape-api-stubs/consts/Cursor.config.lua",
-        "../runescape-api-stubs/consts/Inv.lua",
-        "../runescape-api-stubs/consts/Inv.config.lua"
+        "../rs3-api-types/generated/library/",
+        "../rs3-api-types/generated/constants/Interface.lua",
+        "../rs3-api-types/generated/constants/StyleSheet.lua",
+        "../rs3-api-types/generated/constants/Font.lua",
+        "../rs3-api-types/generated/constants/Cursor.lua",
+        "../rs3-api-types/generated/constants/Inv.lua"
     ],
     "workspace.checkThirdParty": false,
     "diagnostics.globals": ["prettyui"]

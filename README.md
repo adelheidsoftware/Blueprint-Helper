@@ -308,8 +308,9 @@ stays available for players who want to solve the puzzle themselves.
 
 ## Development
 
-The client runs Lua 5.4.8. For editor support install the Lua Language Server and point it at the community
-[runescape-api-stubs](https://github.com/FriendlyDevelopment/runescape-api-stubs) types. To run a development copy,
+The client runs Lua 5.4.8. For editor support install the Lua Language Server and clone
+[rs3-api-types](https://github.com/adelheidsoftware/rs3-api-types) next to this folder, where `.luarc.json` looks for
+its types. To run a development copy,
 put this folder into the client's `dev_plugins` directory under the name `blueprint-helper`, then in the developer
 console run `prf` once and `prl blueprint-helper` after every change.
 
